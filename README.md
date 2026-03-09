@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi 👋 I'm Nidhi Rahangdale
 
-<!--
-**nidhiRahan/nidhirahan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Java Backend Developer with 2.5+ years of experience in building backend applications.
 
-Here are some ideas to get you started:
+## 🚀 Skills
+- Java 8+
+- Spring Boot
+- Hibernate / JPA
+- REST APIs
+- Microservices
+- MySQL
+- Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projects
+- Employee Management System (Spring Boot + MySQL)
+- REST API based Application
+- Microservices Backend Project
+
+## 🌱 Currently Learning
+- Advanced Spring Boot
+- Microservices Architecture
+- System Design
+
+## 💼 Looking For
+Currently looking for **Java Backend Developer opportunities**.
+
+## 📫 Connect With Me
+- LinkedIn: www://linkedin.com/nrrn
