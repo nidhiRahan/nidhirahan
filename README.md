@@ -25,6 +25,6 @@
 Currently looking for **Java Backend Developer opportunities**.
 
 ## 📫 Connect With Me
-- LinkedIn:www.linkedin.com/in/nidhi-java-developer
+- LinkedIn:www.linkedin.com/in/nidhiraha
 
 
