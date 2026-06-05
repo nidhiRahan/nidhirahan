@@ -1,4 +1,12 @@
-# Hi 👋 I'm Nidhi Rahangdale
+<h1 align="center">Hi 👋, I'm Nidhi Rahangdale</h1>
+
+<h3 align="center">
+Java Developer | Spring Boot | Microservices
+</h3>
+
+<p align="center">
+Passionate about building scalable backend applications.
+</p>
 
 💻 Java Backend Developer with 2.5+ years of experience in building backend applications.
 
