@@ -7,7 +7,7 @@
 <h3 align="center">Java Backend Developer | Spring Boot | Microservices</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="visitor counter" />
+  <img src="https://komarev.com/ghpvc/?username=nidhiRahan&label=Profile%20Views&color=0e75b6&style=flat" alt="visitor counter" />
 </p>
 
 <p align="center">
@@ -94,15 +94,15 @@ Java • Spring Boot • MySQL
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nidhiRahan&show_icons=true&theme=default" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nidhiRahan" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nidhiRahan&layout=compact" />
 </p>
 
 ---
