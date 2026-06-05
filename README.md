@@ -1,4 +1,3 @@
-```markdown
 <p align="center">
   <img src="githubBanner.png" alt="Banner" width="100%">
 </p>
@@ -128,4 +127,4 @@ Currently open to Java Backend Developer opportunities.
 
 - LinkedIn: https://www.linkedin.com/in/nidhiraha
 - Email: rahangdalenidhio8@gmail.com
-```
+
