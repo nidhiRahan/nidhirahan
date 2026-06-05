@@ -1,84 +1,131 @@
+```markdown
 <p align="center">
   <img src="githubBanner.png" alt="Banner" width="100%">
 </p>
+
 <h1 align="center">Hi 👋, I'm Nidhi Rahangdale</h1>
 
+<h3 align="center">Java Backend Developer | Spring Boot | Microservices</h3>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Java+Developer;Spring+Boot+Developer;Backend+Engineer;Microservices+Enthusiast&center=true&width=500&height=50">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="visitor counter" />
 </p>
 
 <p align="center">
-Passionate about building scalable backend applications.
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Java+Backend+Developer;Spring+Boot+Developer;Microservices+Developer;AWS+%7C+Docker+Learner&center=true&width=600&height=50">
 </p>
 
-💻 Java Backend Developer with 2.5+ years of experience in building backend applications.
+<p align="center">
+  Passionate about building scalable backend applications and solving real-world business problems.
+</p>
+
+---
 
 ## 👩‍💻 About Me
 
-- 💼 Java Developer with 2+ Years Experience
-- 🌱 Learning AWS, Docker and CI/CD
-- 🚀 Building Spring Boot Projects
-- 💡 Interested in Backend Development
+💻 Java Backend Developer with 2.5+ years of experience in designing and developing enterprise applications.
+
+- 💼 Java Developer at KSVSoftTech Pvt. Ltd.
+- 🚀 Strong experience in Java, Spring Boot, Hibernate & REST APIs
+- 🌱 Currently learning AWS, Docker and CI/CD
+- 🔍 Interested in Microservices & System Design
 - 📍 Indore, Madhya Pradesh, India
+
+---
 
 ## 🛠️ Tech Stack
 
+### Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql)
 
+### Backend
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot)
-
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate)
+![REST API](https://img.shields.io/badge/REST_API-000000?style=for-the-badge)
 
+### Database
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
 
+### Tools & DevOps
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+---
 
 ## 💼 Experience
 
-### Java Developer | KSVSoftTech private limited, Indore
+### Java Developer | KSVSoftTech Pvt. Ltd.
+📅 Jan 2023 – Present
 
-📅 Jan 2023 - Present
+- Developed and maintained RESTful APIs using Spring Boot
+- Worked with Hibernate/JPA for database operations
+- Optimized SQL queries and improved application performance
+- Production support, bug fixing and enhancement activities
+- Participated in Agile Scrum ceremonies
+- Collaborated with frontend and QA teams
 
-- Developed REST APIs using Spring Boot
-- Worked with Hibernate and JPA
-- Optimized SQL Queries
-- Production Support & Bug Fixing
-- Agile Scrum Development
+---
 
 ## 🚀 Featured Projects
 
 ### AI Resume Assistant
-Spring Boot + PostgreSQL + Gemini API + Microservices
+Spring Boot • PostgreSQL • Gemini API • Microservices
 
-### CRM
-React + Spring Boot + MySQL
+- AI-powered resume analysis and feedback system
+- REST API based architecture
+- PostgreSQL database integration
+
+### CRM Application
+React • Spring Boot • MySQL
+
+- Customer and lead management system
+- Role-based authentication and authorization
 
 ### HRMS
-Java + Spring Boot + MySQL
+Java • Spring Boot • MySQL
 
-## 🚀 Skills
-- Java 8+
-- Spring Boot
-- Hibernate / JPA
-- REST APIs
-- Microservices
-- MySQL
-- Git
+- Employee management and attendance tracking
+- Payroll and reporting modules
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact" />
+</p>
+
+---
+
+## 🎯 Current Focus
+
+- Spring Boot Microservices
+- Docker & Containerization
+- AWS Cloud
+- CI/CD Pipelines
+- System Design
+
+---
 
 ## 💼 Looking For
-Currently looking for **Java Backend Developer opportunities**.
+
+Currently open to Java Backend Developer opportunities.
+
+---
 
 ## 📫 Connect With Me
 
-- LinkedIn: www.linkedin.com/in/nidhiraha
+- LinkedIn: https://www.linkedin.com/in/nidhiraha
 - Email: rahangdalenidhio8@gmail.com
-  
-
-
-
+```
