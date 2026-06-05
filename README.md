@@ -68,20 +68,14 @@ Java + Spring Boot + MySQL
 - MySQL
 - Git
 
-## 📂 Projects
-- Employee Management System (Spring Boot + MySQL)
-- REST API based Application
-- Microservices Backend Project
-
-## 🌱 Currently Learning
-- Advanced Spring Boot
-- Microservices Architecture
-- System Design
-
 ## 💼 Looking For
 Currently looking for **Java Backend Developer opportunities**.
 
 ## 📫 Connect With Me
-- LinkedIn:www.linkedin.com/in/nidhiraha
+
+- LinkedIn: www.linkedin.com/in/nidhiraha
+- Email: rahangdalenidhio8@gmail.com
+  
+
 
 
