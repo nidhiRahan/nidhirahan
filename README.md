@@ -3,9 +3,9 @@
 </p>
 <h1 align="center">Hi 👋, I'm Nidhi Rahangdale</h1>
 
-<h3 align="center">
-Java Developer | Spring Boot | Microservices
-</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Java+Developer;Spring+Boot+Developer;Backend+Engineer;Microservices+Enthusiast&center=true&width=500&height=50">
+</p>
 
 <p align="center">
 Passionate about building scalable backend applications.
