@@ -1,14 +1,6 @@
-<p align="center">
-  <img src="githubBanner.png" alt="Banner" width="100%">
-</p>
-
 <h1 align="center">Hi 👋, I'm Nidhi Rahangdale</h1>
 
 <h3 align="center">Java Backend Developer | Spring Boot | Microservices</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nidhiRahan&label=Profile%20Views&color=0e75b6&style=flat" alt="visitor counter" />
-</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Java+Backend+Developer;Spring+Boot+Developer;Microservices+Developer;AWS+%7C+Docker+Learner&center=true&width=600&height=50">
