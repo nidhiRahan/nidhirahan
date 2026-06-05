@@ -10,6 +10,14 @@ Passionate about building scalable backend applications.
 
 💻 Java Backend Developer with 2.5+ years of experience in building backend applications.
 
+## 👩‍💻 About Me
+
+- 💼 Java Developer with 2+ Years Experience
+- 🌱 Learning AWS, Docker and CI/CD
+- 🚀 Building Spring Boot Projects
+- 💡 Interested in Backend Development
+- 📍 Madhya Pradesh, India
+
 ## 🚀 Skills
 - Java 8+
 - Spring Boot
