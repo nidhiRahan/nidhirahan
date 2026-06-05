@@ -36,6 +36,18 @@ Passionate about building scalable backend applications.
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 
+## 💼 Experience
+
+### Java Developer | KSVSoftTech private limited, Indore
+
+📅 Jan 2023 - Present
+
+- Developed REST APIs using Spring Boot
+- Worked with Hibernate and JPA
+- Optimized SQL Queries
+- Production Support & Bug Fixing
+- Agile Scrum Development
+
 ## 🚀 Skills
 - Java 8+
 - Spring Boot
