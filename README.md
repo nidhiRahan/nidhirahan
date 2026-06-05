@@ -91,22 +91,6 @@ Java • Spring Boot • MySQL
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nidhiRahan&show_icons=true&theme=default" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nidhiRahan" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nidhiRahan&layout=compact" />
-</p>
-
----
-
 ## 🎯 Current Focus
 
 - Spring Boot Microservices
