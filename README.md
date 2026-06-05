@@ -48,6 +48,17 @@ Passionate about building scalable backend applications.
 - Production Support & Bug Fixing
 - Agile Scrum Development
 
+## 🚀 Featured Projects
+
+### AI Resume Assistant
+Spring Boot + PostgreSQL + Gemini API + Microservices
+
+### CRM
+React + Spring Boot + MySQL
+
+### HRMS
+Java + Spring Boot + MySQL
+
 ## 🚀 Skills
 - Java 8+
 - Spring Boot
