@@ -91,11 +91,6 @@ Java • Spring Boot • MySQL
 
 ---
 
-State
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nidhiRahan&show_icons=true&cache_seconds=1800)
-
---
-
 ## 🎯 Current Focus
 
 - Spring Boot Microservices
